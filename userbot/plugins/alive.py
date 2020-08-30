@@ -3,12 +3,12 @@ from userbot.utils import admin_cmd
 
 name = str(ALIVE_NAME)
 THUNDERUSERBOT_IS_ALIVE = (
-    "**Wow I Am Alive^.^** \n`??BOT Status : ` **??ALIVE**\n\n"
+    "**Wow I Am Alive^.^** \n`⚡️BOT Status : ` **⚡️ALIVE**\n\n"
     f"`My Boss`: {name}\n\n"
     "`Thunder Userbot Version:` **3.8.7**\n`Python:` **3.8.5**\n"
-    "`Database Status:` **??ALL OK**\n\n`Always with you, Dear!\n`"
-    "**Support channel:** [??THUNDERSUPPORT](t.me/thunderuserbot)\n"
-    "     [??Deploy This THUNDERUSERBOT??](https://github.com/Thundergang/thunderuserbot)"
+    "`Database Status:` **⚡️ALL OK**\n\n`Always with you, Dear!\n`"
+    "**Support channel:** [⚡️THUNDERSUPPORT](t.me/thunderuserbot)\n"
+    "     [??Deploy This THUNDERUSERBOT⚡️](https://github.com/Thundergang/thunderuserbot)"
 )
 
 
