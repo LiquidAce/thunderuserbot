@@ -8,7 +8,7 @@ THUNDERUSERBOT_IS_ALIVE = (
     "`Thunder Userbot Version:` **3.8.7**\n`Python:` **3.8.5**\n"
     "`Database Status:` **⚡️ALL OK**\n\n`Always with you, Dear!\n`"
     "**Support channel:** [⚡️THUNDERSUPPORT](t.me/thunderuserbot)\n"
-    "     [??Deploy This THUNDERUSERBOT⚡️](https://github.com/Thundergang/thunderuserbot)"
+    "     [⚡️Deploy This THUNDERUSERBOT⚡️](https://github.com/Thundergang/thunderuserbot)"
 )
 
 
