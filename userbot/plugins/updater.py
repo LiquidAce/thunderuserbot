@@ -72,7 +72,7 @@ async def updater(message):
     )
 
     if not changelog:
-        await message.edit("▄︻̷̿┻̿═━一")
+        await message.edit("⚡️⚡️⚡️⚡️⚡️")
         await asyncio.sleep(1)
  
     message_one = NEW_BOT_UP_DATE_FOUND.format(
@@ -140,7 +140,7 @@ def generate_change_log(git_repo, diff_marker):
 
 async def deploy_start(bot, message, refspec, remote):
     await message.edit(RESTARTING_APP)
-    await message.edit("😎⌐╦╦═─😎 Deploy Successful🇮🇳 \n **To ThunderuserbotBranch**")
+    await message.edit("⚡️ Update Successful⚡️ \n **To ThunderuserbotBranch**")
     await remote.push(refspec=refspec)
     await bot.disconnect()
     os.execl(sys.executable, sys.executable, *sys.argv)
