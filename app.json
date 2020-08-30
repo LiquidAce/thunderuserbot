@@ -29,11 +29,11 @@
       "value": ""
     },
     "PLUGIN_CHANNEL": {
-      "description": "Put -1001192571977",
+      "description": "Make a private group or Put -1001110522882",
       "value": ""
     },
     "PRIVATE_GROUP_ID": {
-      "description": "Put -1001192571977",
+      "description": "Put here the same Value as upper Plugin Channel ",
       "value": ""
     },
     "STRING_SESSION": {
