@@ -18,7 +18,7 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name or Username.",
-      "value": "[#UR-NAME#](t.me/#UR-USERBAME#)⚡️"
+      "value": "[#UR-NAME#](t.me/#UR-USERNAME#)⚡️"
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! ",
@@ -29,7 +29,7 @@
       "value": ""
     },
     "PLUGIN_CHANNEL": {
-      "description": "Make a private group or Put -1001110522882",
+      "description": "Make a private group and add nucleo bot (@Nucleoofficial_bot) there and make him admin, then for getting grotp id put /id command note than and put here and below",
       "value": ""
     },
     "PRIVATE_GROUP_ID": {
