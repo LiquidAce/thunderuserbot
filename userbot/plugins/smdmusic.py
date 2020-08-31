@@ -17,7 +17,7 @@ async def _(event):
           await asyncio.sleep(2)
           await event.edit("`Downloading Music \nIt may take some time\n   So Stay Tuned.....`")
           try:
-              response = conv.wait_event(events.NewMessage(incoming=True,from_users=1261589721))
+              response = conv.wait_event(events.NewMessage(incoming=True,from_users=752979930))
               await bot.send_message(chat, name)
               respond = await response
           except YouBlockedUserError:
