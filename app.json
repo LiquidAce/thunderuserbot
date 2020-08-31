@@ -29,7 +29,7 @@
       "value": ""
     },
     "PLUGIN_CHANNEL": {
-      "description": "Make a private group and add nucleo bot (@Nucleoofficial_bot) there and make him admin, then for getting grotp id put /id command note than and put here and below",
+      "description": "Make a private group and add nucleo bot (@Nucleoofficial_bot) there and make him admin, then for getting group id put /id command note than and put here and below",
       "value": ""
     },
     "PRIVATE_GROUP_ID": {
